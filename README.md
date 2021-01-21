@@ -2,9 +2,9 @@
 
 --- 
 
-<p><h3> This created python code helps in predicting the surge and drop in Apple stock price on the basis of real-time News Headlines using supervised machine learning.</h3></p><br>
+<p><h3> This created python code helps in predicting the surge and drop in Apple stock price on the basis of real-time News Headlines using supervised machine learning.</h3></p>
 
-<p><h3> Real-time news headlines are automatically labelled using interesting market events, assuming a lag between the market information and its impact on buying behaviour. News was found to have an impact on the market buying behaviour of the S&P NIFTY index futures.</h3></p><br>
+<p><h3> Real-time news headlines are automatically labelled using interesting market events, assuming a lag between the market information and its impact on buying behaviour. News was found to have an impact on the market buying behaviour of the S&P NIFTY index futures.</h3></p>
 
 <p><h3> <b>Disclaimer:</b> Investing in the stock market involves risk and can lead to monetary loss. The content in this notebook is not to be taken as financial advice.</h3></p>
 
